@@ -1,1 +1,0 @@
-GET https://dev.azure.com/{organization}/{project}/{team}/_apis/work/boards/{id}?api-version=7.1
